@@ -48,6 +48,7 @@ public class BaseActivity extends Activity {
         mWidth = dm.widthPixels;
         mHeight = dm.heightPixels;
         mAvatarSize = (int) (50 * mDensity);
+        //
     }
 
     private Dialog dialog;
